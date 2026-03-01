@@ -1,27 +1,8 @@
 <!-- Бейджи -->
-<p align="center">
-  <a href="https://github.com/qexela/collectionerus-scraper/releases/latest">
-    <img src="https://img.shields.io/github/v/release/qexela/collectionerus-scraper?style=for-the-badge&logo=github&label=Release&color=blue" alt="GitHub Release">
-  </a>
-  <a href="https://github.com/qexela/collectionerus-scraper/releases">
-    <img src="https://img.shields.io/github/downloads/qexela/collectionerus-scraper/total?style=for-the-badge&logo=download&label=Downloads&color=green" alt="Downloads">
-  </a>
-  <a href="https://github.com/qexela/collectionerus-scraper/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/qexela/collectionerus-scraper?style=for-the-badge&logo=opensourceinitiative&label=License&color=yellow" alt="License">
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  </a>
-  <a href="https://flask.palletsprojects.com/">
-    <img src="https://img.shields.io/badge/Flask-2.3+-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  </a>
-  <a href="https://github.com/qexela/collectionerus-scraper/stargazers">
-    <img src="https://img.shields.io/github/stars/qexela/collectionerus-scraper?style=for-the-badge&logo=star&label=Stars&color=gold" alt="Stars">
-  </a>
-  <a href="https://github.com/qexela/collectionerus-scraper/commits/main">
-    <img src="https://img.shields.io/github/last-commit/qexela/collectionerus-scraper?style=for-the-badge&logo=git&label=Last%20Commit&color=purple" alt="Last Commit">
-  </a>
-</p>
+[![Release](https://img.shields.io/github/v/release/qexela/collectionerus-scraper?logo=github&color=blue)](https://github.com/qexela/collectionerus-scraper/releases/latest)
+[![License](https://img.shields.io/github/license/qexela/collectionerus-scraper?color=yellow)](https://github.com/qexela/collectionerus-scraper/blob/main/LICENSE)
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-2.3+-000000?logo=flask&logoColor=white)
 
 ---
 
@@ -29,11 +10,9 @@
 
 > Полнофункциональный скрапер, просмотрщик и архиватор коллекций с сайта [collectionerus.ru](https://collectionerus.ru).
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Коллекций-141-blue?style=flat-square" alt="Collections">
-  <img src="https://img.shields.io/badge/Предметов-~200K-green?style=flat-square" alt="Items">
-  <img src="https://img.shields.io/badge/Данные-~125GB-orange?style=flat-square" alt="Data Size">
-</p>
+![Коллекций](https://img.shields.io/badge/Коллекций-141-blue)
+![Предметов](https://img.shields.io/badge/Предметов-~200K-green)
+![Данные](https://img.shields.io/badge/Данные-~125GB-orange)
 
 ---
 
@@ -575,8 +554,8 @@ EXE-файлы собраны через [PyInstaller](https://pyinstaller.org/)
 
 | Файл | Результат | Отчёт |
 |------|-----------|-------|
-| `collectionerus-scraper.exe` | ✅ **5/70** — AI срабатывания | [🔗 Открыть отчёт](https://www.virustotal.com/gui/file/e7729f405f9e993a529855f2b10e7cdbc0774b2649b50a89608f82f1b45b02fb) |
-| `collectionerus-viewer.exe` | ✅ **6/70** — AI срабатывания | [🔗 Открыть отчёт](https://www.virustotal.com/gui/file/0d5c254baf649ea1f9b9ab7b37e0c4b733a9255e7d1bccb1c63d581f99ac2d72) |
+| `collectionerus-scraper.exe` | ✅ **6/70** — AI срабатывания | [🔗 Открыть отчёт](https://www.virustotal.com/gui/file/e7729f405f9e993a529855f2b10e7cdbc0774b2649b50a89608f82f1b45b02fb) |
+| `collectionerus-viewer.exe` | ✅ **5/70** — AI срабатывания | [🔗 Открыть отчёт](https://www.virustotal.com/gui/file/0d5c254baf649ea1f9b9ab7b37e0c4b733a9255e7d1bccb1c63d581f99ac2d72) |
 
 > 💡 **Как проверить самостоятельно:** загрузите EXE на [virustotal.com](https://www.virustotal.com/) → увидите результат за 1-2 минуты.
 
