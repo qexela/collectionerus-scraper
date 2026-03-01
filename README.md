@@ -7,9 +7,9 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-2.3+-000000?logo=flask&logoColor=white)
 
-![Коллекций](https://img.shields.io/badge/Коллекций-141-blue)
-![Предметов](https://img.shields.io/badge/Предметов-~200K-green)
-![Данные](https://img.shields.io/badge/Данные-~125GB-orange)
+![Коллекций](https://img.shields.io/badge/Коллекций-141-blue?logo=stackbit&logoColor=white)
+![Предметов](https://img.shields.io/badge/Предметов-~200K-green?logo=dropbox&logoColor=white)
+![Данные](https://img.shields.io/badge/Данные-~125GB-orange?logo=database&logoColor=white)
 
 ---
 
@@ -30,7 +30,7 @@
 - [Формат данных](#формат-данных)
 - [Использование](#использование)
 - [Сборка EXE](#сборка-exe)
-- [Безопасность EXE](#безопасность-EXE)
+- [Безопасность EXE](#-безопасность-exe)
 - [FAQ](#faq)
 - [Лицензия](#лицензия)
 
