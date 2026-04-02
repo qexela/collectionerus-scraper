@@ -5,8 +5,8 @@
 > Полнофункциональный скрапер, просмотрщик и архиватор коллекций с сайта [collectionerus.ru](https://collectionerus.ru).
 
 <!-- Группа 1: Ссылки и Технологии -->
-[![Release](https://img.shields.io/github/v/release/qexela/collectionerus-scraper?logo=github&color=blue)](https://github.com/qexela/collectionerus-scraper/releases/latest)
-[![License](https://img.shields.io/github/license/qexela/collectionerus-scraper?color=yellow)](https://github.com/qexela/collectionerus-scraper/blob/main/LICENSE)
+[![Release](https://img.shields.io/github/v/release/AlexAgents/collectionerus-scraper?logo=github&color=blue)](https://github.com/AlexAgents/collectionerus-scraper/releases/latest)
+[![License](https://img.shields.io/github/license/AlexAgents/collectionerus-scraper?color=yellow)](https://github.com/AlexAgents/collectionerus-scraper/blob/main/LICENSE)
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-2.3+-000000?logo=flask&logoColor=white)
 
